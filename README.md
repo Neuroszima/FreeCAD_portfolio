@@ -1,9 +1,9 @@
 # About this repo
 
 Mostly amateur-level CAD designs. I have thrown them in for showcase, that I can operate and navigate this environment.
-Most of the designs have already been 3D printed, and according to problems that were encountered, next projects were
-made with new tools/solutions in mind. I have a few other designs, that I cannot show (property of previous company 
-I worked for - models of robots internals).
+Most of the designs have already been 3D printed, and based on experience gotten from solving problems that were 
+encountered, next projects were made with new tools/solutions in mind. I have a few other designs, that I cannot show 
+(property of previous company I worked for - models of robots internals).
 
 #### Box for parts
 
